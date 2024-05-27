@@ -4,6 +4,10 @@
 
 This project aims to analyze Netflix data to gain insights into the content available on the platform. The analysis involves understanding trends in movie_type,release_date, genres, countries, casts, and directors. The project follows an ELT (Extract, Load, Transform) approach using SQL for data transformation and analysis.
 
+## FLOW
+
+![Netflix_Data_Analysis](NDA.png)
+
 ## Dataset
 
 - **Source**: Kaggle
